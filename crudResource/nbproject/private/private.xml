@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/crudResource/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/resources/views/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/app/Http/Controllers/PostsController.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/database/migrations/2018_05_08_153601_create_table_post.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/app/Posts.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/resources/views/posts/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/.env</file>
+            <file>file:/C:/xampp/htdocs/crudResource/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/crudResource/.git/config</file>
+        </group>
+    </open-files>
+</project-private>
